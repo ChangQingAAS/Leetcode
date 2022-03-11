@@ -1,8 +1,13 @@
 {
     "files.associations": {
+        "*.m": "matlab",
         "ostream": "cpp",
         "iostream": "cpp",
-        "new": "cpp"
+        "new": "cpp",
+        "system_error": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "utility": "cpp"
     },
     "files.autoGuessEncoding": true,
     "python.testing.promptToConfigure": false,
